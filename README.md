@@ -1,1 +1,3 @@
-# #1000 devs
+# 1000 devs
+
+## Segunda aula sobre git, testes unitarios e nodeJS
